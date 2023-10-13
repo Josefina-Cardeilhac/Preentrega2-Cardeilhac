@@ -1,0 +1,23 @@
+.Navbar{
+  display: flex;
+  text-align: center;
+  background-color: #a0f8a0;
+  height: 15%;
+  width: 100%; 
+  
+}
+
+.HeaderNav img {
+  width: 16vh;
+  margin-right: 10px; 
+}
+
+.HeaderNav {
+  display: flex;
+  background-color: #a0f8a0;
+  height: 15%;
+  width: 100%;
+}
+.HeaderNav li {
+  margin-left: 50px;
+}
